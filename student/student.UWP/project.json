@@ -1,0 +1,30 @@
+﻿{
+  "dependencies": {
+    "Microsoft.Net.Http": "2.2.29",
+    "Microsoft.NETCore.UniversalWindowsPlatform": "6.0.2",
+    "Newtonsoft.Json": "10.0.3",
+    "runtime.aot.System.Collections": "4.0.10",
+    "System.IO": "4.3.0",
+    "System.IO.FileSystem": "4.3.0",
+    "System.Linq": "4.3.0",
+    "System.Net.Http": "4.3.3",
+    "System.Net.Primitives": "4.3.0",
+    "System.Net.Requests": "4.3.0",
+    "System.Net.Sockets": "4.3.0",
+    "System.Threading.Tasks": "4.3.0",
+    "System.Threading.Tasks.Extensions": "4.4.0",
+    "Xam.Plugin.Connectivity": "3.0.3",
+    "Xamarin.Forms": "2.5.0.91635"
+  },
+  "frameworks": {
+    "uap10.0.10586": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}
